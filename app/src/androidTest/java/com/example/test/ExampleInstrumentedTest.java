@@ -19,6 +19,8 @@ import static org.junit.Assert.*;
  * Instrumentation test, which will execute on an Android device.
  *
  * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
+ *
+ * https://google.github.io/android-testing-support-library/samples/index.html
  */
 @RunWith(AndroidJUnit4.class)
 @LargeTest      // 고부하 테스트 임을 선언
